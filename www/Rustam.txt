@@ -1,0 +1,1 @@
+firstname= Rustam  email= rustam-osmanov@yandex.ru  pass= 196989  Data_rogdenia= 03.02.1989
