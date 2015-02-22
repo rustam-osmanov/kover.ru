@@ -42,7 +42,6 @@
 				<div>Пароль</div>
 				<input type="password" name="password" value=""/>
 				<table id="adres">
-				<p>kjhkjhk</p>
 
 	<tr>
 		<td> Фоновое Изображение </td>
